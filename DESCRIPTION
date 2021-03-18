@@ -6,7 +6,7 @@ Author: Dimitris Rizopoulos <d.rizopoulos@erasmusmc.nl>
 Maintainer: Dimitris Rizopoulos <d.rizopoulos@erasmusmc.nl>
 Description: Shared parameter models for the joint modeling of longitudinal and time-to-event data using MCMC; Dimitris Rizopoulos (2016) <doi:10.18637/jss.v072.i07>. 
 Depends: nlme, survival, doParallel
-Imports: MASS, foreach, Rcpp, jagsUI, xtable, shiny, splines, Hmisc
+Imports: MASS, foreach, Rcpp, jagsUI, xtable, splines, Hmisc
 SystemRequirements: JAGS (http://mcmc-jags.sourceforge.net)
 LinkingTo: Rcpp, RcppArmadillo
 LazyLoad: yes
